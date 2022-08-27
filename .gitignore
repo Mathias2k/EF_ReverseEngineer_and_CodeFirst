@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EF_ReverseEngineer_and_CodeFirst/v17
+/.vs/EF_ReverseEngineer_and_CodeFirst_app/FileContentIndex
+/.vs
+/EF_ReverseEngineer_and_CodeFirst/bin/Debug/net6.0
+/EF_ReverseEngineer_and_CodeFirst/obj
